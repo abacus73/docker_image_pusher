@@ -5,4 +5,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-minio/minio:RELEASE.2023-03-20T20-16-18Z
+#minio/minio:RELEASE.2023-03-20T20-16-18Z
+mysql:8.4.3-oracle
